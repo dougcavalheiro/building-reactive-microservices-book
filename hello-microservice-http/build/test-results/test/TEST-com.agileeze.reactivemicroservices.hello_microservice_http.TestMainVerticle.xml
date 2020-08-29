@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.agileeze.reactivemicroservices.hello_microservice_http.TestMainVerticle" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-08-29T17:28:54" hostname="user-Latitude-5400" time="0.275">
+  <properties/>
+  <testcase name="verticle_deployed(Vertx, VertxTestContext)" classname="com.agileeze.reactivemicroservices.hello_microservice_http.TestMainVerticle" time="0.275"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
